@@ -1,0 +1,107 @@
+
+
+.spano{
+    display: inline-block;
+    margin-left: 75px;
+}
+.spano:hover{
+    box-shadow: 3px 2px 3px #503C3C;
+    opacity: 0.9;
+}
+.one{
+    display: inline-block;
+    background-color: goldenrod;
+    color: black;
+    width: 25vw;
+    height: 45vh;
+    border: 3px solid black;
+    padding-right: 20px;
+    margin-top: 1px;
+    margin-left: 1px;
+    margin-right: 0px;
+    text-align: center;
+    /* box-shadow: 3px 5px 2px #503C3C; */
+}
+.two{
+    display: inline-block;
+    background-color:goldenrod;
+    color: black;
+    width: 25vw;
+    height: 45vh;
+    border: 3px solid black;
+    padding-right: 20px;
+    text-align: center;
+    /* box-shadow: 3px 5px 2px #503C3C; */
+}
+.three{
+    display: inline-block;
+    background-color: goldenrod;
+    color: black;
+    width: 25vw;
+    height: 45vh;
+    border: 3px solid black;
+    padding-right: 20px;
+    margin-top: 1px;
+    margin-left: 1px;
+    margin-right: 0px;
+    text-align: center;
+    /* box-shadow: 3px 5px 2px #503C3C; */
+}
+.four{
+    display: inline-block;
+    background-color: goldenrod;
+    color: black;
+    width: 25vw;
+    height: 45vh;
+    border: 3px solid black;
+    padding-right: 20px;
+    text-align: center;
+    /* box-shadow: 3px 5px 2px #503C3C; */
+    margin-bottom: 1px;
+}
+b{  
+    text-decoration: underline;
+    text-shadow: 5px 3px 5px black;
+    text-transform: capitalize;
+}
+p{
+    text-transform: capitalize;
+}
+
+.head{
+    background-image: radial-gradient(gold,black);
+    height: 80px;
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+    font-family: chiller;
+    font-style: italic;
+    padding-top: 5pt;
+}
+.logo{
+    width: 130px;
+    height: 80px;
+    padding-top: 0px;
+    padding-left: opx;
+    border-radius: 50%;
+}
+.foot{
+    background-image: radial-gradient(Gold,black);
+    height: 70px;
+    padding-top: 15pt;
+    text-align: center;
+    color: black;
+    font-size: xx-small;
+}
+img{
+    width: 20vw;
+    height: 30vh;
+    padding-left: 35px;
+    padding-top: 30px;
+}
+body{
+    background-color: black;
+}
+p{
+    color: white;
+}
